@@ -1,0 +1,8 @@
+//ignore everything
+*
+//except for .gitignore
+!.gitignore
+//except for scripts folder
+!scripts/
+//expect for configs
+!config/chickens/main_chickens.cfg
