@@ -3,6 +3,8 @@
 //except for .gitignore
 !.gitignore
 //except for scripts folder
-!scripts/
+!scripts
+!scripts/*
 //expect for configs
+!config
 !config/chickens/main_chickens.cfg

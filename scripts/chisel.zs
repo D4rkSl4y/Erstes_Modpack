@@ -1,0 +1,2 @@
+recipes.remove(<chiselsandbits:wrench_wood>);
+recipes.addShaped("WoodenWrench",<chiselsandbits:wrench_wood>, [[null,<ore:plankWood>,null],[<ore:plankWood>,<ore:stickWood>,null],[null,null,<ore:stickWood>]]);

@@ -1,0 +1,2 @@
+recipes.remove(<extrautils2:pipe>);
+recipes.addShaped("TransferPipe",<extrautils2:pipe> * 8, [[<minecraft:stone_slab>,<minecraft:stone_slab>,<minecraft:stone_slab>],[<ore:blockGlass>,<minecraft:redstone>,<ore:blockGlass>],[<minecraft:stone_slab>,<minecraft:stone_slab>,<minecraft:stone_slab>]]);

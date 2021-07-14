@@ -1,0 +1,2 @@
+recipes.remove(<mysticalagriculture:master_infusion_crystal>);
+recipes.addShaped(<mysticalagriculture:master_infusion_crystal>, [[<mysticalagriculture:crafting:4>, <harvestcraft:epicbaconitem>, <mysticalagriculture:crafting:4>], [<harvestcraft:epicbaconitem>, <mysticalagriculture:infusion_crystal:*>, <harvestcraft:epicbaconitem>], [<mysticalagriculture:crafting:4>, <minecraft:nether_star>, <mysticalagriculture:crafting:4>]]);
